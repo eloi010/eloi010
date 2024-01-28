@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, this is ELoi</h1>
+<h1 align="center">Hi 👋, this is Eloi</h1>
 <h3 align="center">Security researcher | Pentester | Web3 and Blockchain Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eloi010&label=Profile%20views&color=0080ff&&style=flat" alt="eloi010" /> </p>
