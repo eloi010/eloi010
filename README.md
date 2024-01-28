@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, this is Eloi</h1>
-<h3 align="center">Security researcher | Pentester | Web3 and Blockchain Enthusiast </h3>
+<h3 align="center">Security researcher | Pentester | Web3 and Blockchain Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eloi010&label=Profile%20views&color=0080ff&&style=flat" alt="eloi010" /> </p>
+[![Linkedin: Eloi](https://img.shields.io/badge/-Eloi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eloimanuel/)](https://www.linkedin.com/in/eloimanuel/)
+[![GitHub eloi010](https://img.shields.io/github/followers/eloi010?label=GitHub&style=social)](https://github.com/eloi010)
+![Twitter Follow](https://img.shields.io/twitter/follow/eloi_manuel?style=social)
 
-<p align="left"> <a href="https://twitter.com/eloi_manuel" target="blank"><img src="https://img.shields.io/twitter/follow/eloi_manuel?label=Follow&style=social" alt="eloi_manuel" /></a> </p>
-
-![y1cunhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=eloi010&count_private=true&show_icons=true&theme=tokyonight)
+![Eloi010 GitHub stats](https://github-readme-stats.vercel.app/api?username=eloi010&count_private=true&show_icons=true&theme=tokyonight)
